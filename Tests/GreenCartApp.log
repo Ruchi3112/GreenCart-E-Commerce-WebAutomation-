@@ -1,0 +1,50 @@
+07/09/2020  06:32:49 PM :INFO :test_Greencart :Adding Veggies into the cart : 
+07/09/2020  06:32:54 PM :INFO :test_Greencart :Adding Fruits into the cart :
+07/09/2020  06:32:59 PM :INFO :test_Greencart :Adding Nuts into the cart :
+07/09/2020  06:35:19 PM :INFO :test_Greencart :Adding Veggies into the cart : 
+07/09/2020  06:35:25 PM :INFO :test_Greencart :Adding Fruits into the cart :
+07/09/2020  06:35:30 PM :INFO :test_Greencart :Adding Nuts into the cart :
+07/09/2020  06:36:50 PM :INFO :test_Greencart :Adding Veggies into the cart : 
+07/09/2020  06:36:56 PM :INFO :test_Greencart :Adding Fruits into the cart :
+07/09/2020  06:37:01 PM :INFO :test_Greencart :Adding Nuts into the cart :
+07/09/2020  06:37:14 PM :INFO :test_Greencart :Promo Code Validation :Code applied ..!
+07/09/2020  06:39:20 PM :INFO :test_Greencart :Adding Veggies into the cart : 
+07/09/2020  06:39:25 PM :INFO :test_Greencart :Adding Fruits into the cart :
+07/09/2020  06:39:30 PM :INFO :test_Greencart :Adding Nuts into the cart :
+07/09/2020  06:39:44 PM :INFO :test_Greencart :Promo Code Validation :Code applied ..!
+07/09/2020  06:41:18 PM :INFO :test_Greencart :Adding Veggies into the cart : 
+07/09/2020  06:41:23 PM :INFO :test_Greencart :Adding Fruits into the cart :
+07/09/2020  06:41:28 PM :INFO :test_Greencart :Adding Nuts into the cart :
+07/09/2020  06:41:41 PM :INFO :test_Greencart :Promo Code Validation :Code applied ..!
+07/09/2020  06:44:47 PM :INFO :test_Greencart :Adding Veggies into the cart : 
+07/09/2020  06:44:53 PM :INFO :test_Greencart :Adding Fruits into the cart :
+07/09/2020  06:44:58 PM :INFO :test_Greencart :Adding Nuts into the cart :
+07/09/2020  06:45:11 PM :INFO :test_Greencart :Promo Code Validation :Code applied ..!
+07/09/2020  06:46:21 PM :INFO :test_Greencart :Adding Veggies into the cart : 
+07/09/2020  06:46:27 PM :INFO :test_Greencart :Adding Fruits into the cart :
+07/09/2020  06:46:32 PM :INFO :test_Greencart :Adding Nuts into the cart :
+07/09/2020  06:46:45 PM :INFO :test_Greencart :Promo Code Validation :Code applied ..!
+07/09/2020  06:50:33 PM :INFO :test_Greencart :Adding Veggies into the cart : 
+07/09/2020  06:50:38 PM :INFO :test_Greencart :Adding Fruits into the cart :
+07/09/2020  06:50:43 PM :INFO :test_Greencart :Adding Nuts into the cart :
+07/09/2020  06:50:56 PM :INFO :test_Greencart :Promo Code Validation :Code applied ..!
+07/09/2020  06:51:55 PM :INFO :test_Greencart :Adding Veggies into the cart : 
+07/09/2020  06:52:01 PM :INFO :test_Greencart :Adding Fruits into the cart :
+07/09/2020  06:52:06 PM :INFO :test_Greencart :Adding Nuts into the cart :
+07/09/2020  06:52:19 PM :INFO :test_Greencart :Promo Code Validation :Code applied ..!
+07/09/2020  06:52:19 PM :INFO :test_Greencart :The Total purchase amount is :2735
+07/09/2020  06:54:16 PM :INFO :test_Greencart :Adding Veggies into the cart : 
+07/09/2020  06:54:22 PM :INFO :test_Greencart :Adding Fruits into the cart :
+07/09/2020  06:54:27 PM :INFO :test_Greencart :Adding Nuts into the cart :
+07/09/2020  06:54:40 PM :INFO :test_Greencart :Promo Code Validation :Code applied ..!
+07/09/2020  06:54:40 PM :INFO :test_Greencart :The Total purchase amount is :2735
+07/09/2020  06:54:41 PM :INFO :test_Greencart :The discounted amount is :2461.5
+07/09/2020  06:54:41 PM :INFO :test_Greencart :Placing the final order
+07/09/2020  07:02:32 PM :INFO :test_Greencart :Adding Veggies into the cart : 
+07/09/2020  07:02:38 PM :INFO :test_Greencart :Adding Fruits into the cart :
+07/09/2020  07:02:43 PM :INFO :test_Greencart :Adding Nuts into the cart :
+07/09/2020  07:02:56 PM :INFO :test_Greencart :Promo Code Validation :Code applied ..!
+07/09/2020  07:02:56 PM :INFO :test_Greencart :The Total purchase amount is :2735
+07/09/2020  07:02:56 PM :INFO :test_Greencart :The discounted amount is :2461.5
+07/09/2020  07:02:56 PM :INFO :test_Greencart :Placing the final order
+07/09/2020  07:02:57 PM :INFO :test_Greencart :The order has been placed 
